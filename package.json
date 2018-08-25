@@ -1,0 +1,22 @@
+{
+  "name": "otbm2json",
+  "version": "0.2.0",
+  "description": "open tibia file map parser",
+  "main": "otbm2json.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inconcessus/OTBM2JSON.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Inconcessus/OTBM2JSON/issues"
+  },
+  "homepage": "https://github.com/Inconcessus/OTBM2JSON#readme"
+}
